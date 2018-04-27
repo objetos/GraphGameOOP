@@ -24,9 +24,10 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
 ### Recomendaciones
 
 1. Mantener la simplicidad, regla de oro de POO.
-2. Emplear arreglos estáticos siempre que se pueda y `ArrayList` únicamente cuando se juzgue indespensable hacerlo.
-3. No importar ninguna herramienta, ni librería externa.
-4. Mantener la siguiente jerarquía de archivos para el repositorio:
+2. Emplear el [código de la plantilla](https://github.com/objetos/GraphGameOOP/tree/master/GraphGame) que se ha venido empleando y que se encuentra también incluida en este mismo repositorio.
+3. Emplear arreglos estáticos siempre que se pueda y `ArrayList` únicamente cuando se juzgue indespensable hacerlo.
+4. No importar ninguna herramienta, ni librería externa.
+5. Mantener la siguiente jerarquía de archivos para el repositorio:
 
         GraphGame/
         |-- data/
@@ -37,8 +38,8 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
         |-- GraphGame.pde
         |-- (Demás clases, debidamente nombradas)
         |-- README.md
-5. Emplear el README.md para discutir lo realizado repecto a los objetivos planteados.
-6. Exposiciones
+6. Emplear el README.md para discutir lo realizado repecto a los objetivos planteados.
+7. Exposiciones
     1. Formato: 5 minutos para presentar + 2 minutos para responder preguntas.
     2. Estructura sugerida
         * Intro (muy breve)
