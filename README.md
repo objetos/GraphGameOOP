@@ -12,22 +12,21 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
     * Las líneas se pueden visitar una sola vez (en cualquier sentido).
 3. En el modo creación, permitir crear los niveles del juego.
 4. Opcionales:
-    * Implementar reglas especiales para las líneas: líneas que se deben visitar n veces (en cualquier sentido) y líneas que se pueden visitar únicamente en un solo sentido dado (flechas).
+    * Implementar reglas especiales para las líneas: líneas que se deben visitar `n` veces (en cualquier sentido) y líneas que se pueden visitar únicamente en un solo sentido (flechas).
     * Mostrar la solución cuando el jugador se dé por vencido.
 
 ### Observaciones
 
 1. Fecha límite: Domingo 6/5/18 a las 24h.
-2. Los trabajos son individuales (sin excepción alguna), cada uno debe tener un repositorio único propio de código original.
-3. Subir la url del repositorio git en la pestaña de "urls" de la hoja de cálculo que les compartí para la primera entrega.
-4. Los trabajos se deberán exponer en las clases del 7/5/18 y 9/5/18.
+2. Los trabajos son individuales.
+3. Los trabajos se deberán exponer en las clases del 7/5/18 y 9/5/18.
 
 ### Recomendaciones
 
 1. Mantener la simplicidad, regla de oro de POO.
-2. Emplear arrays estáticos, siempre que se pueda y ArrayList únicamente cuando se juzgue como estrictamente necesario hacerlo.
+2. Emplear arreglos estáticos siempre que se pueda y `ArrayList` únicamente cuando se juzgue indespensable hacerlo.
 3. No importar ninguna herramienta, ni librería externa.
-4. Estructura del repositorio:
+4. Mantener la siguiente jerarquía de archivos para el repositorio:
 
         GraphGame/
         |-- data/
@@ -38,11 +37,11 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
         |-- GraphGame.pde
         |-- (Demás clases, debidamente nombradas)
         |-- README.md
-5. Emplear el README.md para discutir lo realizado, repecto a los objetivos planteados.
+5. Emplear el README.md para discutir lo realizado repecto a los objetivos planteados.
 6. Exposiciones
     1. Formato: 5 minutos para presentar + 2 minutos para responder preguntas.
     2. Estructura sugerida
         * Intro (muy breve)
         * Solución propuesta: clases con sus atributos y métodos.
         * Demo y resultados (respecto a los objetivos propuestos).
-        * Limitaciones y trabajo futuro.
+        * Limitaciones.
