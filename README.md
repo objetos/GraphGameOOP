@@ -28,6 +28,7 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
 2. Emplear arrays estáticos, siempre que se pueda y ArrayList únicamente cuando se juzgue como estrictamente necesario hacerlo.
 3. No importar ninguna herramienta, ni librería externa.
 4. Estructura del repositorio:
+ 
     GraphGameOOP/
     |-- data/
             |--nivel1.csv
@@ -37,6 +38,7 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
     |-- GraphGameOOP.pde
     |-- (Demás clases, debidamente nombradas)
     |-- README.md
+    
 5. Emplear el README.md para discutir lo realizado, repecto a los objetivos planteados.
 6. Estructura de las exposiciones:
     * Intro (muy breve)
