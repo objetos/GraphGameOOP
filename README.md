@@ -39,8 +39,8 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
         |-- (Demás clases, debidamente nombradas)
         |-- README.md
 5. Emplear el README.md para discutir lo realizado, repecto a los objetivos planteados.
-6. Exposiciones: 5 minutos para presentar + 2 minutos para responder preguntas.
-    1. Formato: 
+6. Exposiciones
+    1. Formato: 5 minutos para presentar + 2 minutos para responder preguntas.
     2. Estructura sugerida
         * Intro (muy breve)
         * Solución propuesta: clases con sus atributos y métodos.
