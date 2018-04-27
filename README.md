@@ -29,8 +29,7 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
 3. No importar ninguna herramienta, ni librería externa.
 4. Estructura del repositorio:
     
-    GraphGameOOP/
-    
+        GraphGameOOP/
         |-- data/
             |--nivel1.csv
             |--nivel2.csv
