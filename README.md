@@ -24,7 +24,7 @@ Implementar el juego de dibujo continuo de línea mediante POO empleando el leng
 ### Recomendaciones
 
 1. Mantener la simplicidad, regla de oro de POO.
-2. Emplear el [código de la plantilla](https://github.com/objetos/GraphGameOOP/tree/master/GraphGame) que se ha venido empleando y que se encuentra también incluida en este mismo repositorio.
+2. Emplear como punto de partida el [código de la plantilla](https://github.com/objetos/GraphGameOOP/tree/master/GraphGame) de las clases pasadas.
 3. Emplear arreglos estáticos siempre que se pueda y `ArrayList` únicamente cuando se juzgue indespensable hacerlo.
 4. No importar ninguna herramienta, ni librería externa.
 5. Mantener la siguiente jerarquía de archivos para el repositorio:
